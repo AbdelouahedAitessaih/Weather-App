@@ -1,5 +1,5 @@
 name: weather_app
-description: A new Flutter project.
+description: A Flutter weather application that displays temperature (current, min, max) for a searched city using the OpenWeatherMap API.
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `pub publish`. This is preferred for private packages.
